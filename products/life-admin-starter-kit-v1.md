@@ -1,29 +1,51 @@
-# Life Admin Starter Kit v1
+# Life Admin Starter Kit v1.1
 
 A practical, beginner-friendly bundle for getting bills, documents, appointments, subscriptions, household tasks, and family follow-ups out of your head and into a simple system.
 
-**Status:** Draft v1 for review.  
-**Use:** Personal organization and education only.  
-**Not:** Legal, tax, medical, financial, or professional advice.
+**Status:** owner-review draft, improved June 2026  
+**Use:** personal organization and education only  
+**Not:** legal, tax, medical, financial, insurance, or professional advice
+
+---
+
+## Quick promise
+
+This kit is for busy adults who do not need a perfect productivity system. They need a calm place to capture what is due, what is missing, who needs a follow-up, and what to do next.
+
+**The goal:** spend 30–60 minutes, reduce the mental clutter, and leave with only 3 next actions.
 
 ---
 
 ## How to use this kit
 
-1. Set a 30- to 60-minute timer.
-2. Pick one area that feels most annoying right now: bills, documents, appointments, subscriptions, taxes, household tasks, or family follow-ups.
-3. Fill out only the worksheet you need today.
-4. Circle the top 3 next actions.
-5. Put those actions on your calendar or task list.
-6. Repeat once a week until the system feels lighter.
+1. Pick the section that matches the thing bothering you most.
+2. Fill out only that section first.
+3. Circle or write your top 3 next actions.
+4. Put those actions somewhere real: calendar, reminder app, paper planner, or shared list.
+5. Come back once a week for a 10–20 minute reset.
 
-You do not need to finish everything in one sitting. The goal is to reduce overwhelm, not create a perfect binder.
+You do **not** need to complete the whole kit in one sitting.
+
+---
+
+## Included worksheets
+
+1. Monthly Life Admin Checklist
+2. Bill & Subscription Tracker
+3. Tax Document Organizer
+4. Important Documents Inventory
+5. Appointment Prep Sheet
+6. Household Project Tracker
+7. Family Follow-Up Planner
+8. Weekly Reset Page
+9. Questions to Ask a Professional
+10. Privacy & Safety Guidance
 
 ---
 
 ## 1. Monthly Life Admin Checklist
 
-Use this once per month.
+Use this once per month to catch the common loose ends.
 
 ### Money and bills
 
@@ -31,7 +53,7 @@ Use this once per month.
 - [ ] Check for late fees, duplicate charges, or surprise renewals.
 - [ ] Review subscriptions and memberships.
 - [ ] Save or download important statements if needed.
-- [ ] Add any upcoming annual renewals to your calendar.
+- [ ] Add annual renewals to your calendar.
 
 ### Documents
 
@@ -48,15 +70,15 @@ Use this once per month.
 
 ### Household
 
-- [ ] List repairs, maintenance, errands, or purchases that need attention.
+- [ ] List repairs, errands, maintenance, or purchases that need attention.
 - [ ] Pick one small household task to complete this week.
-- [ ] Note anything seasonal: filters, smoke detectors, car registration, insurance, taxes, school forms, etc.
+- [ ] Note anything seasonal: filters, smoke detectors, car registration, insurance, tax deadlines, school forms, etc.
 
 ### Top 3 next actions
 
-1. ________________________________
-2. ________________________________
-3. ________________________________
+1. ________________________________________________
+2. ________________________________________________
+3. ________________________________________________
 
 ---
 
@@ -82,9 +104,9 @@ Use this to see what is leaving your account each month.
 
 ### Next actions
 
-- [ ] Cancel: ________________________________
-- [ ] Renegotiate or review: ________________________________
-- [ ] Add reminder for renewal: ________________________________
+- [ ] Cancel: _______________________________________
+- [ ] Review or renegotiate: _________________________
+- [ ] Add renewal reminder: __________________________
 
 ---
 
@@ -113,7 +135,7 @@ Create one folder called:
 
 `Tax documents - [Year]`
 
-Inside it, use simple subfolders:
+Suggested subfolders:
 
 - Income
 - Deductions and credits
@@ -151,7 +173,7 @@ Do not store passwords, full Social Security numbers, private keys, seed phrases
 ### Safer handling reminders
 
 - Keep sensitive originals in a secure place.
-- Use strong passwords and reputable password managers for login credentials.
+- Use strong passwords and a reputable password manager for login credentials.
 - Do not email unencrypted sensitive documents casually.
 - Ask a qualified professional for legal, tax, insurance, or estate questions.
 
@@ -161,14 +183,14 @@ Do not store passwords, full Social Security numbers, private keys, seed phrases
 
 Use before medical, dental, school, vet, home repair, financial, or professional appointments.
 
-**Appointment:** ________________________________  
-**Date/time:** ________________________________  
-**Location / link / phone:** ________________________________
+**Appointment:** ____________________________________  
+**Date/time:** ______________________________________  
+**Location / link / phone:** __________________________
 
 ### Why I scheduled this
 
-- __________________________________________
-- __________________________________________
+- ________________________________________________
+- ________________________________________________
 
 ### What I need to bring
 
@@ -181,9 +203,9 @@ Use before medical, dental, school, vet, home repair, financial, or professional
 
 ### Questions to ask
 
-1. ________________________________
-2. ________________________________
-3. ________________________________
+1. ________________________________________________
+2. ________________________________________________
+3. ________________________________________________
 
 ### After-appointment follow-up
 
@@ -216,11 +238,11 @@ Mark each project:
 
 This week I will only focus on:
 
-________________________________
+____________________________________________________
 
 The smallest next step is:
 
-________________________________
+____________________________________________________
 
 ---
 
@@ -239,37 +261,37 @@ Use this for family logistics, caregiving, school forms, shared tasks, holidays,
 - Who am I waiting on?
 - Who is waiting on me?
 - What form, payment, appointment, gift, or decision is due soon?
-- What can I delegate or simplify?
+- What can I delegate, simplify, or drop?
 
 ---
 
 ## 8. Weekly Reset Page
 
-Use this once per week for 10-20 minutes.
+Use this once per week for 10–20 minutes.
 
 ### Brain dump
 
 Write everything nagging at you:
 
-- __________________________________________
-- __________________________________________
-- __________________________________________
-- __________________________________________
+- ________________________________________________
+- ________________________________________________
+- ________________________________________________
+- ________________________________________________
 
 ### Sort into buckets
 
-**Bills / money:** ________________________________  
-**Documents / paperwork:** ________________________________  
-**Appointments:** ________________________________  
-**Household:** ________________________________  
+**Bills / money:** __________________________________  
+**Documents / paperwork:** __________________________  
+**Appointments:** ___________________________________  
+**Household:** ______________________________________  
 **Family / people:** ________________________________  
-**Work / school:** ________________________________
+**Work / school:** __________________________________
 
 ### Choose only 3 next actions
 
-1. ________________________________
-2. ________________________________
-3. ________________________________
+1. ________________________________________________
+2. ________________________________________________
+3. ________________________________________________
 
 ### Put them somewhere real
 
@@ -277,15 +299,15 @@ Write everything nagging at you:
 - [ ] Reminder app
 - [ ] Paper planner
 - [ ] Shared family list
-- [ ] Other: ________________________________
+- [ ] Other: _______________________________________
 
 ---
 
 ## 9. Questions to Ask a Professional
 
-Use this when you need help from a tax preparer, lawyer, doctor, insurance agent, financial planner, contractor, school office, or other professional.
+Use this when you need help from a tax preparer, lawyer, doctor, insurance agent, financial planner, contractor, school office, or another professional.
 
-**Professional / office:** ________________________________
+**Professional / office:** ___________________________
 
 ### Before the call or appointment
 
@@ -326,7 +348,7 @@ This kit is meant to help you organize, not expose private information.
 - Security question answers
 - Private keys or seed phrases
 - Sensitive medical details beyond what is needed for your own records
-- Legal documents in public/shared folders
+- Legal documents in public or shared folders
 
 ### Safer habits
 
@@ -342,10 +364,10 @@ This kit is meant to help you organize, not expose private information.
 ## Product positioning draft
 
 **Name:** Life Admin Starter Kit  
-**Audience:** Busy adults, families, caregivers, freelancers, and anyone overwhelmed by everyday paperwork and follow-ups.  
-**Promise:** Get the main categories of life admin out of your head and into simple checklists you can use immediately.  
-**Suggested price test later:** $9-$19 as a downloadable starter bundle, after review and polishing.  
-**Launch status:** Not for sale yet. Draft for owner review.
+**Audience:** busy adults, families, caregivers, freelancers, and anyone overwhelmed by everyday paperwork and follow-ups.  
+**Promise:** get the main categories of life admin out of your head and into simple checklists you can use immediately.  
+**Suggested price test later:** $9–$19 as a downloadable starter bundle after review and polish.  
+**Launch status:** not for sale yet; owner-review draft.
 
 ---
 
